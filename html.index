@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Noor Muhammad</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Hi, I'm Noor Muhammad 👋</h1>
+    <p>I am a Computer Science student.</p>
+
+    <h2>About Me</h2>
+    <p>I am learning web development and GitHub.</p>
+
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+
+</body>
+</html>
